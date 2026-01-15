@@ -1,2 +1,2 @@
 ## EE331 Report
-- (ee331_project (2).pdf)
+- - [Deep RL Stock Trading Report (PDF)](ee331_project (2).pdf)
